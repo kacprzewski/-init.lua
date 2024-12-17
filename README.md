@@ -1,3 +1,5 @@
 Requirements
-    Ripgrep
-    C compiler and libstdc ( for treesitter )
+- Ripgrep
+  
+- C compiler
+- libstdc ( for treesitter )
