@@ -1,5 +1,5 @@
 Requirements
 - Ripgrep
-  
-- C compiler
-- libstdc ( for treesitter )
+
+- sudo apt install build-essential
+
